@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://advice-generator-api-ten.vercel.app)
+- Live Site URL: [Advice Generator](https://advice-generator-api-ten.vercel.app)
 
 ### Built with
 
